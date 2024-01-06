@@ -1,0 +1,235 @@
+Project-Number,Name,Address,Lat,Lng,Weather_Category,Color,Temperature_F,Windspeed_mph
+18-054,PAR 1244,"5950 York St, Denver, CO 80216, USA",39.805279,-104.958759,Cold but Good Weather,Blue,28,6
+18-121,SECURITY SANITATION WWTF IMPROVEMENTS,"6510 Southmoor Dr, Fountain, CO 80817, USA",38.736055,-104.73794900000001,Snow,Red,30,7
+18-145,WESTERN CURRENCY FACILITY EXPANSION,"8776 Blue Mound Rd, Fort Worth, TX 76131, USA",32.8943727,-97.34863329999996,Rain,Red,52,8
+18-147,BID PACKAGE 4.3 - LEONARD WTP YARD PIPE,"361 Co Rd 4965, Leonard, TX 75452, USA",33.383391,-96.28256390000001,Good Weather,Green,48,9
+19-040,SADDLE CREEK RTB,"2520 S 64th St, Omaha, NE 68106, USA",41.2404302,-96.011843,Cold but Good Weather,Blue,31,8
+19-048,MARCY GULCH WWTP,"8700 US-85, Highlands Ranch, CO 80126, USA",39.55690000000001,-105.03353500000003,Cold but Good Weather,Blue,28,3
+19-128,UNITED IAH TERMINAL C BHS REPLACEMENT,"3575 S Terminal Rd, Houston, TX 77032, USA",29.98596229999999,-95.33682160000001,Good Weather,Green,55,12
+19-173,NORTHWATER RAPID MIX/FLOC/SED,"6949 CO-93, Golden, CO 80403, USA",39.8180911,-105.2217388,Cold but Good Weather,Blue,27,6
+20-026,Project MP-18002/19003 Elevated Tanks Water One,"19770 S Lackman Rd, Spring Hill, KS 66083, USA",38.769805,-94.761545,Cold but Good Weather,Blue,30,8
+20-133,WWTP Improvements - Tahlequah,"1410 E Powell Rd, Tahlequah, OK 74464, USA",35.892527,-94.954679,Good Weather,Green,38,10
+20-134,Erie North Water Reclamation Facility,"501 State Hwy 52, Erie, CO 80516, USA",40.0876404,-105.0454163,Cold but Good Weather,Blue,27,0
+20-137,Sister Grove 2.30 Dewatering Pkg.,"3360 FM2933, McKinney, TX 75071, USA",33.23189719999999,-96.56158099999999,Good Weather,Green,51,9
+20-138,Sister Grove 2.10 - Yard Pipe,"3360 FM2933, McKinney, TX 75071, USA",33.23189719999999,-96.56158099999999,Good Weather,Green,51,9
+20-140,South Mesquite Creek,"3500 Lawson Rd, Mesquite, TX 75181, USA",32.7161822,-96.5482324,Good Weather,Green,53,8
+20-143,Lake Georgetown Chemical Feed System,"2050 Cedar Breaks Rd, Georgetown, TX 78628, USA",30.6662738,-97.7383673,Rain,Red,52,5
+20-156,Goose Pasture Tarn Dam Rehabilitation,"271 Lakeshore Loop, Blue River, CO 80424, USA",39.45540199999999,-106.032505,Snow,Red,17,4
+20-175,Armourdale  Unit and CID Unit Pump Station Modifications,"Levee Rd, Kansas City, KS, USA",39.0890506,-94.66471779999999,Good Weather,Green,32,7
+20-187,Sister Grove 1.40 - Headworks,"3360 FM2933, McKinney, TX 75071, USA",33.2330941,-96.5751391,Good Weather,Green,51,9
+21-015,Solids Dewatering Improvements Northeast WRRF,"7000 N 70th St, Lincoln, NE 68507, USA",40.8825955,-96.62324219999999,Cold but Good Weather,Blue,31,9
+21-016,Wichita NWWTP Package 006 Filter Bldg. Embeds,"5211 W 21st St N, Wichita, KS 67205, USA",37.7233663,-97.4044747,Good Weather,Green,34,14
+21-030,Northwater Bid Pkg 22 - Moffat WTP Mods,"6949 CO-93, Golden, CO 80403, USA",39.8180631,-105.2217381,Cold but Good Weather,Blue,27,6
+21-046,Bioscience 5,"2200 Racine St, Aurora, CO 80011, USA",39.7492871,-104.8433647,Snow,Red,27,3
+21-052,Sister Grove 4.10 Solids Handling,"3360 FM2933, McKinney, TX 75071, USA",33.2330941,-96.5751391,Good Weather,Green,51,9
+21-053,Allison WWTP Lift Station & Plant Improvements,"4104 Allison Rd, Corpus Christi, TX 78410, USA",27.8556648,-97.5656173,Good Weather,Green,64,6
+21-070,(921-231) WWTP Expansion & Reuse Pump Station,"1801 Park Blvd, Cleburne, TX 76033, USA",32.3140571,-97.3939319,Good Weather,Green,52,8
+21-071,"Wastewater Treatment Facility Improvements - Perry, IA","Ivy Pl, Perry, IA 50220, USA",41.8287612,-94.1109504,Cold but Good Weather,Blue,26,5
+21-079,Hefner WTP Lime System Improvements,"3827 W Hefner Rd, Oklahoma City, OK 73120, USA",35.58301859999999,-97.58944,Good Weather,Green,45,7
+21-081,Raw Water Infrastructure & Groundwater Treatment Plant PH 1B,"362 Wolf Run Rd, Rosanky, TX 78953, USA",29.788553,-97.40075739999999,Good Weather,Green,53,9
+21-089,City of Early Water Treatment Facility,"103 Karr Ave, Early, IA 50535, USA",42.4604627,-95.14769919999999,Cold but Good Weather,Blue,27,8
+21-098,Sister Grove Outfall Structure,"McKinney, TX, USA",33.1983388,-96.6389342,Good Weather,Green,51,9
+21-104,Boeing MQ-25 Production Facility MAB/CUP,"8929 State Rte 4, Mascoutah, IL 62258, USA",38.5330677,-89.7946199,Cold but Good Weather,Blue,30,0
+21-105,BOEING MQ-25 PRODUCTION FACILITY TRUCK INSPECTION,"8929 State Rte 4, Mascoutah, IL 62258, USA",38.5330677,-89.7946199,Cold but Good Weather,Blue,30,0
+21-106,BOEING MQ-25 PRODUCTION FACILITY MAINTENANCE BUILDING,"8929 State Rte 4, Mascoutah, IL 62258, USA",38.5330677,-89.7946199,Cold but Good Weather,Blue,30,0
+21-107,BOEING MQ-25 PRODUCTION FACILITY HANGAR,"8929 State Rte 4, Mascoutah, IL 62258, USA",38.5330677,-89.7946199,Cold but Good Weather,Blue,30,0
+21-108,BOEING MQ-25 PRODUCTION FACILITY FUEL CALIBRATION - FINAL PAINT,"8929 State Rte 4, Mascoutah, IL 62258, USA",38.5330677,-89.7946199,Cold but Good Weather,Blue,30,0
+21-113,(921-411) Northwest Water Treatment Plant Softener Addition,"7807 Ellis Rd NW, Cedar Rapids, IA 52405, USA",42.0005672,-91.7419098,Cold but Good Weather,Blue,25,3
+21-114,PBWTP Chemical Clearwell and Pump Station Improvements,"1901 Lakewood Dr, Arlington, TX 76013, USA",32.7139882,-97.18445609999999,Good Weather,Green,52,10
+21-120,Monroe Street Combined Sewer Lift Station,"5600 S 10th St, Omaha, NE 68107, USA",41.2081226,-95.9311882,Cold but Good Weather,Blue,31,8
+21-122,SIRWA Creston WTP,"2127 US-34, Creston, IA 50801, USA",41.04870639999999,-94.2560152,Cold but Good Weather,Blue,25,3
+21-125,Project Storm,"21795 Kansas Ave, Tonganoxie, KS 66086, USA",39.083829,-95.08650999999999,Cold but Good Weather,Blue,31,6
+21-127,Ellsworth AFB B-21 Low Observable Restoration Facility,"Ellsworth AFB, SD, USA",44.1463938,-103.0748767,Cold but Good Weather,Blue,22,0
+21-130,UPS 747-8F MAINTENANCE HANGAR,"4435 Crittenden Dr, Louisville, KY 40209, USA",38.1879064,-85.7506774,Cold but Good Weather,Blue,28,0
+21-132,Blair Intake,"Fairview Dr, Blair, NE 68008, USA",41.5515604,-96.1264618,Cold but Good Weather,Blue,31,8
+21-135,Consolidated Space Operations Facility,"Sputnik St, Schriever AFB, CO 80930, USA",38.797386,-104.5245628,Snow,Red,28,7
+21-136,Cargo Largo 2021,"3232 S Noland Rd, Independence, MO 64055, USA",39.06187089999999,-94.4167159,Cold but Good Weather,Blue,30,8
+21-137,Broomfield WRF Carbon Addition,"2985 W 124th Ave, Broomfield, CO 80020, USA",39.9216312,-105.0245563,Cold but Good Weather,Blue,27,6
+21-141,CRESTON WTP PIPE SUPPORTS,"2127 US-34, Creston, IA 50801, USA",41.04870639999999,-94.2560152,Cold but Good Weather,Blue,25,3
+21-143,Water Treatment Plant Rehabilitation,"851 W 42nd St, Odessa, TX 79764, USA",31.8794341,-102.396267,Good Weather,Green,39,10
+21-146,CSU Lory Student Center,"1101 Center Ave Mall, Fort Collins, CO 80521, USA",40.5748455,-105.0846754,Cold but Good Weather,Blue,28,0
+22-001,Mars Project Y,"100 Mars Blvd, Topeka, KS 66619, USA",38.932421,-95.692968,Cold but Good Weather,Blue,31,6
+22-004,McKinney Ranch Pump Station,"3250 McKinney Ranch Pkwy, McKinney, TX 75070, USA",33.1594978,-96.6548962,Good Weather,Green,51,9
+22-005,Kaw Lake Water Supply Project,"6323 W Chestnut Ave, Enid, OK 73703, USA",36.4046147,-97.94638920000001,Good Weather,Green,42,10
+22-007,Eagle Mountain & Westside WTP Enclosures,"12200 Old Weatherford Rd, Aledo, TX 76008, USA",32.7437057,-97.53073200000001,Good Weather,Green,51,7
+22-008,(922-046) Kaw Lake Raw Water Intake,"6323 W Chestnut Ave, Enid, OK 73703, USA",36.403668,-97.957814,Good Weather,Green,42,10
+22-010,Ceti Alpha - Windsor Colorado Cold Storage Facility,"Great Western Dr, Windsor, CO, USA",40.4591737,-104.8561675,Cold but Good Weather,Blue,26,3
+22-013,Ark City WWTP Stairs,"1701 S M St, Arkansas City, KS 67005, USA",37.0430943,-97.02437359999999,Good Weather,Green,38,14
+22-014,REIMAGINING MONTBELLO,"5000 Crown Blvd, Denver, CO 80239, USA",39.7872005,-104.8272828,Snow,Red,27,3
+22-022,(922-107) Wellington WWTF,"6190 NE Frontage Rd, Wellington, CO 80549, USA",40.6751664,-105.0002094,Cold but Good Weather,Blue,27,3
+22-026,WRA Birdland Pump Station Improvements,"1800 Pennsylvania Ave, Des Moines, IA 50316, USA",41.6102143,-93.61075319999999,Cold but Good Weather,Blue,27,3
+22-036,(922-157) Jefferson County Horizontal Collector Well,"100 Howard Dohack Dr, Crystal City, MO 63019, USA",38.2381754,-90.3689675,Cold but Good Weather,Blue,30,3
+22-038,(922-149) Jonesboro West Side WWTP,"1605 Willett Rd, Jonesboro, AR 72401, USA",35.8597474,-90.7320651,Cold but Good Weather,Blue,30,5
+22-040,HME Erection Garden City Airport New Terminal,"2225 S Air Service Rd suite 112, Garden City, KS 67846, USA",37.9268913,-100.7198703,High Wind,Yellow,34,16
+22-042,5.01 City of Wichita Northwest Water Facility,"5211 W 21st St, Wichita, KS 67205, USA",37.7231319,-97.4126247,Good Weather,Green,34,14
+22-043,Water Resource Facility Improvements Phase 1,"Fairbury, NE 68352, USA",40.1466169,-97.1798456,Good Weather,Green,32,7
+22-045,B-21 Formal Training Unit - AMU,"Ellsworth AFB, SD, USA",44.1463938,-103.0748767,Cold but Good Weather,Blue,22,0
+22-046,Snowmass Base Village Building 12,"180 Wood Rd lot 7, Aspen, CO 81611, USA",39.2090822,-106.9450752,Snow,Red,25,0
+22-048,Topeka WTP West Plant Rehab,"3245 NW Water Works Dr, Topeka, KS 66606, USA",39.0700026,-95.7159563,Cold but Good Weather,Blue,31,6
+22-049,Snowmass Building 13B,"130 Wood Rd, Snowmass Village, CO 81615, USA",39.2096217,-106.9447607,Snow,Red,25,0
+22-050,Sioux Falls Water Reclamation Facility,"4500 N Sycamore Ave, Sioux Falls, SD 57104, USA",43.5970429,-96.66690249999999,Cold but Good Weather,Blue,29,10
+22-052,(922-228) 63rd WTF Campus Electrical and HSPS,"5605 63rd St, Boulder, CO 80301, USA",40.076915,-105.2085565,Cold but Good Weather,Blue,28,1
+22-054,South Canadian WWTP Expansion ST0138,"15924 S May Ave, Oklahoma City, OK 73170, USA",35.30543249999999,-97.5652604,Good Weather,Green,45,15
+22-057,B-21 Mission Operations Planning Facility,"1940 EP Howe Drive, Ellsworth AFB, SD 57706, USA",44.1326693,-103.0745542,Cold but Good Weather,Blue,23,0
+22-058,HME ERECTION 22-057  B-21 MISSION OPERATIONS PLANNING FACILITY,"1940 EP Howe Drive, Ellsworth AFB, SD 57706, USA",44.1326693,-103.0745542,Cold but Good Weather,Blue,23,0
+22-060,Homefield Resort,"9228 State Ave, Kansas City, KS 66112, USA",39.1164427,-94.79390079999999,Cold but Good Weather,Blue,31,5
+22-061,HME ERECTION 22-060 HOMEFIELD RESORT,"9400 State Ave, Kansas City, KS 66112, USA",39.1209928,-94.8054749,Cold but Good Weather,Blue,31,5
+22-062,(922-227) Water Resource Recovery Facility Phase 2,"120 Cherry Ave, Kearney, NE 68847, USA",40.6745624,-99.0314542,High Wind,Yellow,28,16
+22-063,WPC 22-1 Capital Equipment Replacements,"5300 S Elwood Ave, Tulsa, OK 74107, USA",36.0879271,-95.9937027,Good Weather,Green,44,8
+22-068,Climax MRWTP Misc Steel,"Copper Mountain, CO 80443, USA",39.501419,-106.1516265,Snow,Red,18,3
+22-070,Morrison Creek WWTP,"24490 Uncompahgre Rd, Oak Creek, CO 80467, USA",40.2710014,-106.8391787,Cold but Good Weather,Blue,24,6
+22-071,Desoto - Hampton Road PS,"120 W Centre Park Blvd, DeSoto, TX 75115, USA",32.6272079,-96.85914679999999,Rain,Red,52,10
+22-072,DataBank - Den5 Phase 1 - 2MW Build-Out,"6961 S Quentin St, Centennial, CO 80112, USA",39.5900982,-104.8471037,Snow,Red,27,3
+22-073,U-Haul Bernalillo,"218 South Hill, Bernalillo, NM 87004, USA",35.3144054,-106.5368332,Good Weather,Green,32,7
+22-074,Johnson WWTP Improvements,"248 Cloverdale Rd, Jacksonville, AR 72076, USA",34.8448636,-92.12720700000001,Good Weather,Green,33,13
+22-080,Johnstown North Intercepter,"Co Rd 50, Johnstown, CO, USA",40.3491147,-104.9531414,Cold but Good Weather,Blue,26,0
+22-081,Blue River WWTP Biosolids Facility,"7300 Hawthorne Rd, Kansas City, MO 64120, USA",39.1196558,-94.49615329999999,Good Weather,Green,32,5
+22-085,Fort Dodge WWTP Laboratory Building & Odor Control,"Fort Dodge, IA 50501, USA",42.4974694,-94.16801579999999,Cold but Good Weather,Blue,23,0
+22-086,(922-276) Griswold WPF - Phase II,"14201 E Hampden Ave, Aurora, CO 80014, USA",39.6533011,-104.8219335,Snow,Red,26,3
+22-087,Mineral Industries Bldg,"501 E St Joseph St, Rapid City, SD 57701, USA",44.0734611,-103.2048358,Cold but Good Weather,Blue,23,5
+22-089,HME ERECTION 22-088 M&M NON-NUT ENABLEMENT,"100 Mars Blvd, Topeka, KS 66619, USA",38.9322036,-95.69280669999999,Cold but Good Weather,Blue,31,6
+22-092,ADJUTANT GENERALS DEPARTMENT TOPEKA FORBES POWERED HANGAR DOORS,"7105 SE Forbes Ave bldg 682, Topeka, KS 66619, USA",38.9394466,-95.6827094,Cold but Good Weather,Blue,30,6
+22-093,NACA Wastewater Treatment Plant,"11579 Snavely Rd, Bentonville, AR 72712, USA",36.2227873,-94.2884352,Good Weather,Green,35,14
+22-094,HME ERECTION 22-092 ADJUTANT DEPARTMENT TOPEKA FORBES POWERED HANGAR DOORS,"7105 SE Forbes Ave bldg 682, Topeka, KS 66619, USA",38.9394466,-95.6827094,Cold but Good Weather,Blue,30,6
+22-095,HME ERECTION 22-087 MINERAL INDUSTRIES BLDG,"501 E St Joseph St, Rapid City, SD 57701, USA",44.0734611,-103.2048358,Cold but Good Weather,Blue,23,5
+22-098,HME ERECTION 21-130 UPS 747-8F MAINTENANCE HANGAR,"4525 Crittenden Dr, Louisville, KY 40209, USA",38.1877076,-85.75509459999999,Cold but Good Weather,Blue,28,0
+22-099,National Guard Reserve Center Building (JFHQ),"5920 SE Coyote Dr, Topeka, KS 66619, USA",38.9593749,-95.68072149999999,Cold but Good Weather,Blue,31,6
+22-100,HME ERECTION 22-029 PROJECT SOLID SURFACE,"105 Broadway St, Belvue, KS 66407, USA",39.2141345,-96.1785642,Cold but Good Weather,Blue,30,9
+22-101,BC Phase 2 Raw Water Delivery,"9416 Lime Creek Rd, Leander, TX 78641, USA",30.46737100000001,-97.90630399999999,Rain,Red,52,9
+22-102,"(922-337) Austin, MN WWTF Expansion and Phosphorus Reduction","1205 Main St S, Austin, MN 55912, USA",43.6555315,-92.9735522,Cold but Good Weather,Blue,27,3
+22-103,Textron P43 Expansion,"7121 W Southwest Blvd, Wichita, KS 67215, USA",37.6349658,-97.42384969999999,Good Weather,Green,35,14
+22-108,Marshalltown Headworks and Digester Improvements,"901 Woodland St, Marshalltown, IA 50158, USA",42.0645473,-92.89922450000002,Cold but Good Weather,Blue,24,5
+22-109,(922-336) CMAR-Simsboro Aquifer WTP,"265 Sayers Rd, Bastrop, TX 78602, USA",30.158818,-97.3287306,Good Weather,Green,53,2
+22-110,Lawton WWTP Improvements Phase I,"8104 SE 15th St, Lawton, OK 73501, USA",34.5269069,-98.36802200000001,Rain,Red,47,12
+22-111,Shawnee WWTP System Improvements,"43100 Garrett's Lake Rd, Shawnee, OK 74804, USA",35.406958,-96.8913814,Good Weather,Green,45,7
+22-112,(922-323) ROCRWS Peak Flow Storage System & Flood Improvements,"908 Bells Chapel Rd, Waxahachie, TX 75165, USA",32.4860615,-96.7985709,Rain,Red,52,6
+22-113,AdventHealth Cancer Center,"Merriam, KS, USA",39.0236165,-94.6935701,Cold but Good Weather,Blue,31,7
+22-115,(923-189) TUKHS SKCMP Infusion Expansion,"1000 E 101st Terrace, Kansas City, MO 64131, USA",38.9438302,-94.5783222,Cold but Good Weather,Blue,31,8
+22-116,Wes Brown WTP Tube Settler Replacement and Maintenance,"3651 E 86th Ave, Thornton, CO 80229, USA",39.8527443,-104.9420318,Cold but Good Weather,Blue,28,6
+22-117,Harrahs Casino,"3773 63rd Ave, Columbus, NE 68601, USA",41.4527512,-97.40522820000001,Cold but Good Weather,Blue,30,9
+22-121,North Canadian WWTP Improvements,"12800 N Anderson Rd, Jones, OK 73049, USA",35.5989911,-97.3178703,Good Weather,Green,45,1
+22-122,Brewster Place - Redwood Apts,"Topeka, KS, USA",39.0473451,-95.67515759999999,Cold but Good Weather,Blue,31,6
+22-123,(923-142) Crested Butte WWTP Imp. Phase B GMP,"801 Butte Ave, Crested Butte, CO 81224, USA",38.8735982,-106.9773902,Cold but Good Weather,Blue,21,6
+22-126,CLIMAX MRWTP BUILDING STEEL,"Copper Mountain, CO 80443, USA",39.501419,-106.1516265,Snow,Red,18,3
+22-128,Murphy Tractor - PEB,"1621 NW Gage Blvd, Topeka, KS 66618, USA",39.080762,-95.724553,Cold but Good Weather,Blue,31,6
+22-130,NWC Livestock Center,"4850 National Western Dr, Denver, CO 80216, USA",39.7846625,-104.972181,Cold but Good Weather,Blue,28,6
+22-131,USAFA Phase 3 Falcon Stadium Renovation,"4900 Stadium Blvd, Air Force Academy, CO 80840, USA",38.9947441,-104.8454873,Snow,Red,26,10
+22-133,12th Avenue Pump Station,"1325 A St SW, Cedar Rapids, IA 52404, USA",41.9660596,-91.65987419999999,Cold but Good Weather,Blue,25,3
+22-134,(923-003) Lime Silo Slaker Addition,"3008 Cement City Rd, Sugar Creek, MO, USA",39.1556243,-94.40336789999999,Cold but Good Weather,Blue,31,7
+22-135,Logan Intergenerational Family Ed. Center,"305 Sherman St, Logan, KS 67646, USA",39.6648547,-99.5737356,Cold but Good Weather,Blue,30,4
+22-136,HME ERECTION 22-135 LOGAN INTERGENERATIONAL FAMILY ED CENTER,"305 Sherman St, Logan, KS 67646, USA",39.6648547,-99.5737356,Cold but Good Weather,Blue,30,4
+22-137,HME ERECTION 22-045 B-21 Formal Training Unit,"Ellsworth AFB, SD, USA",44.1463938,-103.0748767,Cold but Good Weather,Blue,22,0
+23-002,TFI SHUTTLE WAGON 315 FRAMES,"300 SW Jackson St, Topeka, KS 66603, USA",39.0559366,-95.6726752,Cold but Good Weather,Blue,31,6
+23-004,Offutt Security Campus,"Butler Blvd, Offutt AFB, NE 68113, USA",41.1096002,-95.8910081,Cold but Good Weather,Blue,31,7
+23-005,ADAL Flight Simulator,"Ellsworth AFB, SD 57706, USA",44.1521528,-103.0731459,Cold but Good Weather,Blue,22,0
+23-006,HME ERECTION 23-005 ADAL FLIGHT SIMULATOR,"Ellsworth AFB, SD 57706, USA",44.1521528,-103.0731459,Cold but Good Weather,Blue,22,0
+23-009,Ford KCAP Air Tempering,"Kansas City, MO, USA",39.0997265,-94.5785667,Cold but Good Weather,Blue,31,5
+23-011,NNS - SMAF Office and Misc Steel,"6801 Shipyard Dr, Newport News, VA 23607, USA",37.0060497,-76.4470963,High Wind,Yellow,39,16
+23-012,Papillion Creek WRRF Biosolids & Energy Improvements,"15705 Harlan Lewis Rd, Bellevue, NE 68123, USA",41.079157,-95.88060399999999,Cold but Good Weather,Blue,31,7
+23-013,Superstition Area Water Plant,"4850 S Ironwood Dr, Apache Junction, AZ 85120, USA",33.3719568,-111.5641109,Good Weather,Green,50,6
+23-014,Pauline Central Primary School Addition & Renovation,"6625 SW Westview Rd, Topeka, KS 66619, USA",38.9468338,-95.69783950000001,Cold but Good Weather,Blue,31,6
+23-017,VANDERBILT BASKETBALL PRACTICE FACILITY,"Nashville, TN 37203, USA",36.1523805,-86.7893889,Good Weather,Green,34,7
+23-019,HARRIS FAB 100X200 SHOP ADDITION - PEMB,"2520 N Kansas Ave, Topeka, KS 66617, USA",39.0928116,-95.65944879999999,Cold but Good Weather,Blue,31,6
+23-022,Salina WWTP,"596 N Marymount Rd, Salina, KS 67401, USA",38.8533233,-97.56985859999999,Cold but Good Weather,Blue,30,9
+23-023,Birmingham Pump Station,"11011 NE Birmingham Rd, Kansas City, MO 64161, USA",39.1656834,-94.45761569999999,Cold but Good Weather,Blue,31,7
+23-024,Hill's PNC Organic Waste Facility,"1035 NE 43rd St, Topeka, KS 66617, USA",39.120407,-95.637231,Cold but Good Weather,Blue,31,6
+23-027,Cranes for Harris Fabrication PEMB,"2520 N Kansas Ave, Topeka, KS 66617, USA",39.0931754,-95.65910579999999,Cold but Good Weather,Blue,31,6
+23-030,INDUSTRIAL MAINTENANCE - BLDG 1 PEMB,"4501 NW US Hwy 24, Topeka, KS 66618, USA",39.089454,-95.73325369999999,Cold but Good Weather,Blue,31,6
+23-033,Washburn Rural High School Addition,"5900 SW 61st St, Topeka, KS 66619, USA",38.9573715,-95.75978289999999,Cold but Good Weather,Blue,30,6
+23-035,Kan-Equip - Ottawa Remodel and Addition - PEMB,"3313 Nebraska Terrace, Ottawa, KS 66067, USA",38.6239956,-95.22006119999999,Cold but Good Weather,Blue,31,6
+23-037,TFI SHUTTLE WAGON 420 FRAMES (16),"300 SW Jackson St, Topeka, KS 66603, USA",39.0559366,-95.6726752,Cold but Good Weather,Blue,31,6
+23-038,Advent Health Hospital - Lenexa,"16950 W 86th St, Lenexa, KS 66214, USA",38.9735644,-94.7130785,Cold but Good Weather,Blue,31,7
+23-039,HME ERECTION 23-033 WASHBURN RURAL HIGH SCHOOL ADDITION,"5900 SW 61st St, Topeka, KS 66619, USA",38.9573715,-95.75978289999999,Cold but Good Weather,Blue,30,6
+23-041,Boeing Paint Facility,"6161 Aviation Dr, St. Louis, MO 63134, USA",38.75046899999999,-90.352249,Cold but Good Weather,Blue,31,6
+23-042,Michelin Mfg Plant Expansion,"2925 Industrial St, Junction City, KS 66441, USA",38.9962318,-96.8664289,Cold but Good Weather,Blue,30,9
+23-043,Chris Meier 60x80 Shop - PEMB,"Topeka, KS, USA",39.0473451,-95.67515759999999,Cold but Good Weather,Blue,31,6
+23-044,HME ERECTION 23-042 MICHELIN MFG PLANT EXPANSION,"2925 Industrial St, Junction City, KS 66441, USA",38.9962318,-96.8664289,Cold but Good Weather,Blue,30,9
+23-045,Richardson Northside PS #2 BP#4,"725 Synergy Park Blvd, Richardson, TX 75080, USA",32.99634759999999,-96.74440440000001,Rain,Red,52,12
+23-047,Lake Ralph Hall Pump Station,"848 Co Rd 3645, Ladonia, TX 75449, USA",33.4435016,-95.90482469999999,Good Weather,Green,46,14
+23-049,(923-178) Johnstown Central WWTF,"1441 E S 1st St, Johnstown, CO 80534, USA",40.3353005,-104.8804094,Cold but Good Weather,Blue,27,0
+23-050,BCBS Parking Garage,"2301 Main St, Kansas City, MO 64108, USA",39.0854526,-94.5834417,Cold but Good Weather,Blue,31,5
+23-051,"OKC SUSTAINMENT CENTER OKLAHOMA CITY, OK","8200 S Air Depot Blvd, Oklahoma City, OK 73135, USA",35.3841544,-97.4047765,Good Weather,Green,44,5
+23-054,Dodge City PH 3 System Expansion,"11079 Warrior Rd, Fort Dodge, KS 67801, USA",37.5894121,-100.0200365,Good Weather,Green,36,10
+23-055,Barry County Health Department,"1600 Old Exeter Rd, Cassville, MO 65625, USA",36.6755693,-93.891689,Cold but Good Weather,Blue,31,10
+23-056,HME ERECTION 23-055 BARRY COUNTY HEALTH DEPARTMENT,"1600 Old Exeter Rd, Cassville, MO 65625, USA",36.6755693,-93.891689,Cold but Good Weather,Blue,31,10
+23-061,(923-173) Morrison WTP Expansion,"17811 Union Ave, Morrison, CO 80465, USA",39.6514603,-105.2019981,Cold but Good Weather,Blue,27,3
+23-062,(923-191) SCHELL-OSAGE PUMP STATION,"4662 2950 Rd, Schell City, MO 64783, USA",38.0078057,-94.0878743,Good Weather,Green,36,8
+23-063,WPR Snowmaking System Ph II Upgrade,"85 Parsenn Rd, Winter Park, CO 80482, USA",39.8868391,-105.762488,Snow,Red,18,10
+23-064,Project Acura,"17000 S Hedge Ln, Olathe, KS 66062, USA",38.8200424,-94.85445399999999,Cold but Good Weather,Blue,31,8
+23-065,SIDESTREAM EQ TANK SUPPORT,"7300 Hawthorne Rd, Kansas City, MO 64120, USA",39.1196558,-94.49615329999999,Good Weather,Green,32,5
+23-067,INDUSTRIAL MAINTENANCE - EXISTING BUILDING RESHEETING - PEMB,"NW Hwy 24 Rd, Topeka, KS 66608, USA",39.0907231,-95.67482,Cold but Good Weather,Blue,31,6
+23-068,Sienna Plantation WWTP PH2,"10727 Kingston Spg Dr, Sienna, TX 77459, USA",29.4651709,-95.5093158,Good Weather,Green,56,10
+23-069,USD 489 Roosevelt Elementary School Addition & Renovation,"2000 Mac Arthur Rd, Hays, KS 67601, USA",38.8766114,-99.30792869999999,Cold but Good Weather,Blue,30,13
+23-070,HME ERECTION 23-069 USD 489 ROOSEVELT ELEMENTARY SCHOOL ADDITION & RENOVATION,"2000 Mac Arthur Rd, Hays, KS 67601, USA",38.8766114,-99.30792869999999,Cold but Good Weather,Blue,30,13
+23-072,NPW RESERVOIR & PUMP STATION,"5661 S Ironwood Dr, Apache Junction, AZ 85120, USA",33.3653791,-111.5629555,Good Weather,Green,50,6
+23-073,Topeka Collegiate School,"2200 SW Eveningside Dr, Topeka, KS 66614, USA",39.027469,-95.7346924,Cold but Good Weather,Blue,31,6
+23-074,Cardinal Glass North Addition,"20400 N Webster St, Spring Hill, KS 66083, USA",38.7583404,-94.8199879,Cold but Good Weather,Blue,30,8
+23-075,HME ERECTION 23-074 CARDINAL GLASS NORTH ADDITION,"20400 N Webster St, Spring Hill, KS 66083, USA",38.7583404,-94.8199879,Cold but Good Weather,Blue,30,8
+23-076,Snowball WTP,"3100 Snowball Rd, Pagosa Springs, CO 81147, USA",37.3075628,-106.9881225,Snow,Red,29,0
+23-077,HME ERECTION 23-076 SNOWBALL WTP,"3100 Snowball Rd, Pagosa Springs, CO 81147, USA",37.3075628,-106.9881225,Snow,Red,29,0
+23-078,HME ERECTION 23-073 TOPEKA COLLEGIATE SCHOOL,"2200 SW Eveningside Dr, Topeka, KS 66614, USA",39.027469,-95.7346924,Cold but Good Weather,Blue,31,6
+23-079,Project Mallard Parking Canopies,"County Rd, Texas 78947, USA",30.3586521,-97.1962516,Good Weather,Green,53,1
+23-081,ECCV Quebec Third Filter,"6875 Business Center Dr, Littleton, CO 80130, USA",39.5611414,-104.908909,Snow,Red,27,3
+23-083,Floyd Branch RWWTP UV Improvements,"111 Buckingham Rd, Richardson, TX 75081, USA",32.9364593,-96.7396981,Rain,Red,52,12
+23-084,HME ERECTION 23-064 PROJECT ACURA,"17000 S Hedge Ln, Olathe, KS 66062, USA",38.8200424,-94.85445399999999,Cold but Good Weather,Blue,31,8
+23-085,WU Mulvane Art Museum Project,"1700 SW Jewell Ave, Topeka, KS 66621, USA",39.0359845,-95.70291549999999,Cold but Good Weather,Blue,31,6
+23-086,HME ERECTION 23-085 WU MULVANE ART MUSEUM PROJECT,"1700 SW Jewell Ave, Topeka, KS 66621, USA",39.0359845,-95.70291549999999,Cold but Good Weather,Blue,31,6
+23-087,Topeka Municipal Bldg City Hall HVAC Project,"215 SE 7th St, Topeka, KS 66603, USA",39.0489787,-95.67200849999999,Cold but Good Weather,Blue,31,6
+23-088,HME ERECTION 23-087 MUNICIPAL BLDG CITY HALL HVAC PROJECT,"SE 8th St, Topeka, KS 66607, USA",39.0415755,-95.6229172,Cold but Good Weather,Blue,31,6
+23-089,NC Melt Shop Mill,"792 New Cut Rd, Lexington, NC 27292, USA",35.7718006,-80.1265382,Cold but Good Weather,Blue,29,0
+23-090,UCHealth Medical Center of the Rockies,"2500 Rocky Mountain Ave, Loveland, CO 80538, USA",40.4156022,-104.9971202,Cold but Good Weather,Blue,26,0
+23-091,Jerry Payne - Farmstead Re-Roof - PEMB,"4131 NW Green Hills Rd, Topeka, KS 66618, USA",39.1208245,-95.68948689999999,Cold but Good Weather,Blue,31,6
+23-092,HME ERECTION 23-750 200 SW JACKSON EXTERIOR UPGRADES TFI,"200 SW Jackson St, Topeka, KS 66603, USA",39.057044,-95.67221400000001,Cold but Good Weather,Blue,31,6
+23-093,North Topeka WWTP,"1600 NW Button Rd, Topeka, KS 66618, USA",39.0775793,-95.7037019,Cold but Good Weather,Blue,31,6
+23-094,David City WTP,"1220 E St, David City, NE 68632, USA",41.2542522,-97.1182307,Cold but Good Weather,Blue,30,8
+23-095,Wagoner County RWD No.5 WTP Expansion,"36887 E 141st St S, Coweta, OK 74429, USA",35.959924,-95.5661444,Good Weather,Green,43,13
+23-097,Healdton WWTP,"976 NW 3rd St, Healdton, OK 73438, USA",34.2410228,-97.4857078,Wind and Rain,Red,48,20
+23-099,Whole Foods Distribution Facility,"Aurora, CO, USA",39.7294319,-104.8319195,Snow,Red,27,3
+23-100,Pete Lien & Sons Corporate HQ,"3401 Universal Dr, Rapid City, SD 57702, USA",44.11151479999999,-103.2755673,Cold but Good Weather,Blue,22,0
+23-101,HME ERECTION 23-100 PETE LIEN & SONS CORPORATE HQ,"3401 Universal Dr, Rapid City, SD 57702, USA",44.11151479999999,-103.2755673,Cold but Good Weather,Blue,22,0
+23-102,Trego-Lemke Memorial Hospital Addition & Remodel- Erection,"320 N 13th St, WaKeeney, KS 67672, USA",39.0277552,-99.8710117,Cold but Good Weather,Blue,31,10
+23-103,Republic WWTF,"915 N West Ave, Republic, MO 65738, USA",37.1311119,-93.4887589,Cold but Good Weather,Blue,31,7
+23-107,Aspen Valley Hospital Ph4,"401 Castle Creek Rd, Aspen, CO 81611, USA",39.1891925,-106.8381908,Snow,Red,27,0
+23-109,SOF TEMF Fort Carson,"Fort Carson, CO, USA",38.7374943,-104.7888615,Snow,Red,29,11
+23-110,UMC Regional HQ,"100 S Kansas Ave, Topeka, KS 66603, USA",39.0583557,-95.66985539999999,Cold but Good Weather,Blue,31,6
+23-112,SOLDIER TOWNSHIP MAINTENANCE SHOP - PEMB,"334 NW 62nd St, Topeka, KS 66617, USA",39.1593008,-95.65920849999999,Cold but Good Weather,Blue,31,6
+23-113,Upper Blue Sanitation District Screw Press,"59 Co Rd 1, Breckenridge, CO 80424, USA",39.5668896,-106.0516187,Snow,Red,20,2
+23-114,West Memphis WWTP Expansion,"502 S Loop Dr, West Memphis, AR 72301, USA",35.12378,-90.1797538,Good Weather,Green,32,5
+23-115,Newcastle WWTP Improvements,"1200 NE 16th St, Newcastle, OK 73065, USA",35.2616125,-97.5872141,Good Weather,Green,45,15
+23-117,Stormont Vail - Flint Hills Central Plant Improvements,"1102 St Marys Rd, Junction City, KS 66441, USA",39.0140681,-96.85110399999999,Cold but Good Weather,Blue,30,9
+23-119,Camso Emporia Mezzanine,"1601 E South Ave, Emporia, KS 66801, USA",38.3972487,-96.1542987,Cold but Good Weather,Blue,30,8
+23-121,Wright City WWTF,"Lagoon Dr, St. Louis, MO, USA",38.64357,-90.2931894,Cold but Good Weather,Blue,31,6
+23-122,Regional Well House Modifications Project,"11820 Motsenbocker Rd, Parker, CO 80134, USA",39.50213999999999,-104.766221,Snow,Red,26,3
+23-123,PAR 1400 Peracetic Acid Disinfection,"5950 York St, Denver, CO 80216, USA",39.805279,-104.958759,Cold but Good Weather,Blue,28,6
+23-124,Camso JC Vessel Extension,"2925 Industrial St, Junction City, KS 66441, USA",38.9962318,-96.8664289,Cold but Good Weather,Blue,30,9
+23-125,KANSAS RIVER WWTP PEMB,"1400 E 8th St, Lawrence, KS 66044, USA",38.9689552,-95.22158789999999,Cold but Good Weather,Blue,31,6
+23-126,DHS Speed Bumps,"3600 E Paisano Dr, El Paso, TX 79905, USA",31.7668123,-106.4505294,High Wind,Yellow,43,19
+23-128,PORTER WWTP IMPROVEMENTS,"Porter, OK 74454, USA",35.8709334,-95.522476,Good Weather,Green,42,13
+23-130,TFI PO 723-1429 TAMPA BAY CASTER DECK,"300 SW Jackson St, Topeka, KS 66603, USA",39.0559366,-95.6726752,Cold but Good Weather,Blue,31,6
+23-131,UTRWD Southwest Booster Pump Station,"7079 Prairie Ridge Rd, Argyle, TX 76226, USA",33.085417,-97.214113,Rain,Red,52,7
+23-132,TFI SHUTTLE WAGON 525 FRAMES PO-7231446A-91523,"300 SW Jackson St, Topeka, KS 66603, USA",39.0559366,-95.6726752,Cold but Good Weather,Blue,31,6
+23-133,Shamrock North Tower,"9345 Metcalf Ave, Overland Park, KS 66212, USA",38.9599359,-94.66699129999999,Cold but Good Weather,Blue,31,7
+23-134,KANSAS RIVER WWTP IMPROVEMENTS,"1400 E 8th St, Lawrence, KS 66044, USA",38.9689552,-95.22158789999999,Cold but Good Weather,Blue,31,6
+23-135,HME ERECTION 23-134 KANSAS RIVER WWTP IMPROVEMENTS,"1400 E 8th St, Lawrence, KS 66044, USA",38.9689552,-95.22158789999999,Cold but Good Weather,Blue,31,6
+23-136,Meta MOFE MCA1 0400-0117208,"Lawrence, KS, USA",38.9716689,-95.2352501,Cold but Good Weather,Blue,31,6
+23-137,HAYS HIGH SCHOOL,"2500 E 13th St, Hays, KS 67601, USA",38.8709941,-99.2921255,Cold but Good Weather,Blue,30,13
+23-138,HME ERECTION 23-137 HAYS HIGH SCHOOL,"2500 E 13th St, Hays, KS 67601, USA",38.8709941,-99.2921255,Cold but Good Weather,Blue,30,13
+23-141,KU Chalmers Hall Metal Shop Renovation,"1467 Jayhawk Blvd, Lawrence, KS 66045, USA",38.9579558,-95.2507475,Cold but Good Weather,Blue,31,6
+23-142,TSCPL Loading Dock & Approach Renovation,"1515 SW 10th St, Topeka, KS 66604, USA",39.0512656,-95.6962171,Cold but Good Weather,Blue,31,6
+23-143,Sioux City WWTP - UV Disinfection,"3170 S Lewis Blvd, Sioux City, IA 51106, USA",42.4537024,-96.37551669999999,Cold but Good Weather,Blue,30,9
+23-144,2396 PCWRA STAIRS LANDINGS & HANDRAILS,"Castle Rock, CO, USA",39.3722121,-104.8560902,Snow,Red,26,1
+23-146,RWD #4 Pipe Support,"5439 NW 33rd St, Topeka, KS 66618, USA",39.1048548,-95.75030679999999,Cold but Good Weather,Blue,31,6
+23-147,KSU Waters Hall 1st Floor South Wing Renovation,"Manhattan, KS, USA",39.18360819999999,-96.57166939999999,Cold but Good Weather,Blue,31,7
+23-148,Remsen RO WTP,"206 E Nothem Ave, Remsen, IA 51050, USA",42.8173294,-95.97043230000001,Cold but Good Weather,Blue,28,13
+23-149,Hybar Rolling Mill Structural Package,"Osceola, AR 72370, USA",35.7028603,-89.9700561,Cold but Good Weather,Blue,29,7
+23-150,HCA MID AMERICA MARKET LAB,"Lenexa, KS, USA",38.9536174,-94.73357089999999,Cold but Good Weather,Blue,31,8
+23-151,OREM WRF TERTIARY FILTER REUSE,"1797 1000 S, Orem, UT 84058, USA",40.2785376,-111.7367113,Snow,Red,33,10
+23-152,SELECT STEEL TRANSFER PLATES,"800 Fiber Ln, Wellsville, KS 66092, USA",38.714751,-95.072575,Cold but Good Weather,Blue,31,8
+23-153,Stormont Vail Flint Hills Radiology Mech Improvements,"1102 St Marys Rd, Junction City, KS 66441, USA",39.0140681,-96.85110399999999,Cold but Good Weather,Blue,30,9
+23-155,Stormont Vail Flint Hills SPD Kitchen Improvements,"1102 St Marys Rd, Junction City, KS 66441, USA",39.0140681,-96.85110399999999,Cold but Good Weather,Blue,30,9
+23-159,AIT Barracks Bldgs.1012 & 1013 Renovation,"Big Piney Rd, FT LEONARD WD, MO 65473, USA",37.72837639999999,-92.11819729999999,Good Weather,Green,33,0
+23-161,Coffey County Law Enforcement Center,"Burlington, KS 66839, USA",38.1944667,-95.74276410000002,Cold but Good Weather,Blue,31,7
+23-163,MARSHALL NSPS,"Marshall, MO 65340, USA",39.1230777,-93.1968704,Cold but Good Weather,Blue,30,5
+23-164,Boeing STL Expansion,"St. Louis, MO, USA",38.6270025,-90.19940419999999,Cold but Good Weather,Blue,31,1
+23-165,Evergy 800 Bldg 2nd Floor Remodel,"Topeka, KS, USA",39.0473451,-95.67515759999999,Cold but Good Weather,Blue,31,6
+23-166,HME ERECTION 23-165 EVERGY 800 BLDG 2ND FLOOR REMODEL,"Topeka, KS, USA",39.0473451,-95.67515759999999,Cold but Good Weather,Blue,31,6
